@@ -1,7 +1,7 @@
 import React from "react";
 
-function NewUserPage() {
+const NewUserPage = () => {
   return <div>NewUserPage</div>;
-}
+};
 
 export default NewUserPage;
